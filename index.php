@@ -102,5 +102,8 @@
             document.getElementById('audio').play();
         }
     </script>
+    <?php
+        echo "<h1>TESTE</h1>";
+    ?>
 </body>
 </html>
